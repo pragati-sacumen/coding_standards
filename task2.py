@@ -43,11 +43,9 @@ def pagination(meta_data: str, url: str, key: dict, limit: int) -> None:
     print(response.status_code)
 
 
-# group_key = {"Authorization":
-# "Bearer xoxp-832469927061-2459987250420-3193900441046-1628b80a3fa26e37f459edef1a8b3c73"}
 
 USER_KEY = {
-"Authorization": "Bearer xoxp-2815913105940-2806947464294-2890441256599-332c14130c781ff69d0ffaf4aba44207"
+"Authorization": "Bearer 23445"
 }
 
 
